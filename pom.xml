@@ -93,7 +93,17 @@
       <artifactId>spring-security-test</artifactId>
       <scope>test</scope>
     </dependency>
-
+    <dependency>
+      <groupId>com.razorpay</groupId>
+      <artifactId>razorpay-java</artifactId>
+      <version>1.4.3</version>
+    </dependency>
+    <dependency>
+      <groupId>com.Stripe</groupId>
+      <artifactId>stripe-java</artifactId>
+      <version>20.62.0</version>
+    </dependency>
+      
   </dependencies>
 
   <build>
